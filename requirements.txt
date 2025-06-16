@@ -1,0 +1,8 @@
+torch  
+streamlit  
+yfinance  
+textblob  
+pandas  
+matplotlib  
+requests  
+streamlit-autorefresh  
