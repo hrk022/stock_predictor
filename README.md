@@ -54,7 +54,7 @@ Model: DualHeadLSTM
 ## ⚙️ Setup Instructions
 
 # Clone the Repo  
-git clone https://github.com/your-username/stock-predictor.git  
+git clone https://github.com/hrk022/stock-predictor.git  
 cd stock-predictor  
 
 # Install Requirements  
